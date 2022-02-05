@@ -33,7 +33,7 @@ const Chart = ({ data: { confirmed, recovered, deaths }, country }) => {
           },
         ],
       }}
-      options: {{
+      options= {{
     maintainAspectRatio : false
   }}
     />
